@@ -1,2 +1,1 @@
-# Luk-Kaufman.
-My personal repository.
+# About me
